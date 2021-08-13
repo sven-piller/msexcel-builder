@@ -23,7 +23,7 @@
   },
   "dependencies": {
     "async": "~0.2.6",
-    "jszip": "~3.2.1",
+    "jszip": "~3.7.0",
     "xmlbuilder": "~9.0.0"
   },
   "browser": {
